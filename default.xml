@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote  name="origin"
+		fetch="."
+		review="https://github.com/54shady/" />
+	<default revision="master"
+		remote="origin"
+		sync-j="8" />
+
+	<project path="kernel_drivers_examples" name="kernel_drivers_examples"/>
+	<project path="pab" name="pab"/>
+	<project path="flashtool" name="flashtool"/>
+	<project path="linuxc" name="linuxc"/>
+	<project path="androidthings" name="androidthings"/>
+	<project path="mygentoo" name="mygentoo"/>
+
+</manifest>
