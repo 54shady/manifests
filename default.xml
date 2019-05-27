@@ -8,11 +8,20 @@
 		remote="origin"
 		sync-j="8" />
 
-	<project path="kernel_drivers_examples" name="kernel_drivers_examples"/>
-	<project path="pab" name="pab"/>
-	<project path="flashtool" name="flashtool"/>
-	<project path="linuxc" name="linuxc"/>
+	<project path="KS" name="KS"/>
 	<project path="androidthings" name="androidthings"/>
+	<project path="batch_down" name="batch_down"/>
+	<project path="dotfile" name="dotfile"/>
+	<project path="doti3" name="doti3"/>
+	<project path="dotvim" name="dotvim"/>
+	<project path="flashtool" name="flashtool" revision="setup"/>
+	<project path="forelders" name="forelders"/>
+	<project path="hs" name="hs"/>
+	<project path="kernel_drivers_examples" name="kernel_drivers_examples"/>
+	<project path="linuxc" name="linuxc"/>
 	<project path="mygentoo" name="mygentoo"/>
+	<project path="pab" name="pab"/>
+	<project path="pyall" name="pyall"/>
+	<project path="shellnotes" name="shellnotes"/>
 
 </manifest>
