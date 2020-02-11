@@ -23,6 +23,7 @@
 	<project path="pab" name="pab"/>
 	<project path="pyall" name="pyall"/>
 	<project path="dot_config" name="dot_config"/>
+	<project path="holdall" name="holdall"/>
 	<project path="shellnotes" name="shellnotes"/>
 
 </manifest>
