@@ -25,5 +25,8 @@
 	<project path="dot_config" name="dot_config"/>
 	<project path="holdall" name="holdall"/>
 	<project path="shellnotes" name="shellnotes"/>
+	<project path="docs" name="prjdocs">
+		<linkfile src="README" dest="README.md" />
+	</project>
 
 </manifest>
