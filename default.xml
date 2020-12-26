@@ -20,6 +20,8 @@
 	<project path="kernel_drivers_examples" name="kernel_drivers_examples"/>
 	<project path="linuxc" name="linuxc"/>
 	<project path="mygentoo" name="mygentoo"/>
+	<project path="fabvm" name="fabvm"/>
+	<project path="virtopt" name="virtopt"/>
 	<project path="pab" name="pab"/>
 	<project path="pyall" name="pyall"/>
 	<project path="dot_config" name="dot_config"/>
